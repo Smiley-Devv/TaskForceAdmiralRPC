@@ -1,14 +1,6 @@
 # Custom Engine Reverse Engineering Guide
 
-## 🎯 Game Engine Information
 
-**Task Force Admiral** uses a **custom C++ engine** built by the developer Jean-Baptiste. Based on research:
-
-- **NOT Unity, Unreal, or any commercial engine**
-- Custom-built engine called "BOMB" (predecessor) evolved into TFA engine
-- Likely uses **ImGui** for UI rendering
-- Custom C++ data structures throughout
-- Physics-based simulation (ships float on water, ballistics, flight models)
 
 ## 🔍 Why This Matters
 
